@@ -1,0 +1,23 @@
+//
+// English Language File for UnirepUI Plugin
+//
+
+<!-- language file start -->
+pdinfo_surveys#:#Your Online-Surveys
+pdinfo_hint#:#What does this box mean?
+pdinfo_configuration#:#PDInfo Configuration
+pdinfo_title#:#Information
+pdinfo_message#:#Message
+pdinfo_soap_user#:#PDInfo SOAP user
+pdinfo_soap_password#:#PDInfo SOAP password
+pdinfo_connection_timeout#:#Connection timeout
+pdinfo_logging#:#Logging
+pdinfo_logfile_path#:#Log file (absolute path to the current log file)
+pdinfo_NO_ILIAS_EMAIL_FOUND#:#Email address for Ilias user is not found. (In Ilias system)
+pdinfo_INVALID_WSDL_URL#:#Invalid WSDL URL. Check plugin configuration.
+pdinfo_NO_ONLINE_SURVEYS#:#No online surveys found.
+pdinfo_FOLLOWING_ERROR_OCCURED#:#Following error occured:
+save#:#Save
+configuration_saved#:#Configuration saved
+show_block#:#Show Block on Personal Desktop
+pdinfo_CONNECTION_SUCCESSFULLY_TESTED#:#Connection successfully tested.
