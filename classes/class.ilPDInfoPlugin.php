@@ -18,6 +18,12 @@ class ilPDInfoPlugin extends ilUserInterfaceHookPlugin
 	{
 		return "PDInfo";
 	}
+	protected function uninstallCustom()
+	{
+		// TODO: Implement uninstallCustom() method.
+	}
+	
+
 }
 
 ?>
